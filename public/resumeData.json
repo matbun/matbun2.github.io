@@ -1,0 +1,189 @@
+{
+  "main": {
+    "name":"Matteo Bunino",
+    "occupation":"Data Science Student",
+    "description":"I am currently attending a double degree Master of Science at both Polytechnic University of Turin and EURECOM in Sophia-Antipolis. I am specializing in the major of Data Science and Engineering, which addresses both  theoretical and pratical aspects of machine learning and Big Data analysis. My dream is to actively contribute to the development of democratic and benign AI, in order for it to be beneficial for people.",
+    "image":"profilepic.jpg",
+    "bio":"I started my journey into computer science since the high school when I used to play with Aurduino Uno microcontroller and learn the basis of web development, which resulted in the project of a website for booking school labs. Since my childhood I have been deeply curious about natural sciences and the way technology could impact on our lives always amazed me. \nHowever technology is neither good nor evil and it's important to understand its implications in order to shape the future of our specie, by improving our living conditions and preserving fundamental rights. And what better way to understand the future than undertaking an engineering track? \n\n I am interested in Deep Leaning research and implementations which, at the moment, represent one of the most promising machine learning techniques. I have already worked with deep models such as: \n • Convolutional Neural Networks (CNNs) for image recognition and domain adaptation. \n  • Graph Convolutional Neural Networks (GCNs) for anomaly detection on financial graphs. \nHowever I'm still a rookie compared to many researchers and I am eager to learn more by participating to other research projects. In my next semester I am going to work on Energy Based Model for statistical Learning. You can find my projects below. \n\nMy dream is to actively contribute to the development of democratic and benign AI, in order for it to be beneficial for people.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "Matteo.Bunino@eurecom.fr",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"---",
+      "city":"Biot (Cannes)",
+      "state":"France",
+      "zip": "06410"
+    },
+    "website": "https://matbun.github.io/",
+    "resumedownload":"CV_Matteo_Bunino.pdf",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/_matbun",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/matteo-bunino-9a0562146/",
+        "className":"fa fa-linkedin"
+      },
+      
+      {
+        "name":"github",
+        "url":"http://github.com/matbun",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"https://join.skype.com/invite/ju4sREGCzwjy",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"EURECOM",
+        "degree":"Master of Science in Data Science and Engineering",
+        "graduated":"2019 - Present",
+        "description":"Here, in France, I came in contact with a completely new learning environment, mostly project- and team-based, where I got to improve my teamwork and leadership skills. \nI also had the opportunity to expand my technical knowledge to the fields of cybersecurity and Cloud Computing security/privacy. \nI participated to two research semester projects related to Deep Learning."
+      },
+      {
+        "school":"Polytechnic University of Turin",
+        "degree":"Master of Science in Data Science and Engineering",
+        "graduated":"2019 - Present",
+        "description":"I attended my first year of Master in Italy where I learned the basis of Data Science and Data Analysis including NoSQL DBs, statistics and statistical learning, Big Data processing architectures (map reduce), Deep Learning, GDPR law and Data Ethics, Optimization theory...  "
+      },
+      {
+        "school":"Polytechnic University of Turin",
+        "degree":"Bachelor's degree in Computer Engineering",
+        "graduated":"2017 - July 2019",
+        "description":"In my bachelor I got to learn the basics of engineering such as linear algebra, physics, electronics, software, signal theory, computer architecture, computer networks, automatic controls and so on."
+      }
+    ],
+    "work":[
+      {
+        "company":"Technology Reply",
+        "title":"Big Data Analyst",
+        "years":"March 2019 - June 2019",
+        "description":"During my internship I learned the Knowledge Data Discovery process and the steps of Data Understanding, Data Preparation, Modelling and training of one or more classification algorithms. \nMy internship's main goal was developing the Proof of Concept of a classification process applied on the textual content of bank transactions. The aim was to add semantic information to users transactions, to empower further steps of profiling and product recommendation. \n Throughout this experience, I got to work in the Reply strongly dynamic and innovative environment that taught me relational and team building skills. "
+      }
+    ],
+    "skillmessage":"These are the languages/tools/softwares I use the most, but I also know R, Bash, MongoDB, Javascript, React, Angular, CSS3, HTML5, PHP, ASSEMBLY.",
+    "skills":[
+      {
+        "name":"Java",
+        "level":"60%"
+      },
+      {
+        "name":"C",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"95%"
+      },
+      {
+        "name":"PyTorch",
+        "level":"80%"
+      },
+      {
+        "name":"MATLAB",
+        "level":"50%"
+      },
+      {
+        "name":"SQL",
+        "level":"80%"
+      },
+      {
+        "name":"Apache Hadoop & Spark ",
+        "level":"80%"
+      },
+      {
+        "name":"Linux",
+        "level":"60%"
+      }
+    ],
+    "softskillsMessage": "In the last year, during my courses, I took part to many team-based projects or competitions that gave me the opportunity to improve the soft skills I learned in the past.  ",
+    "softskills":[
+      {
+        "name": "Team work",
+        "level": "80%"
+      },
+      {
+        "name": "Time management",
+        "level": "65%"
+      },
+      {
+        "name": "Leadership",
+        "level": "70%"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "grade": "Level C1",
+        "certification": "IELTS 7.0",
+        "date": "December 2018"
+      },
+      {
+        "name": "French",
+        "grade": "Level B1",
+        "certification": "Language course at EURECOM",
+        "date": "January 2021"
+      },
+      {
+        "name": "Italian",
+        "grade": "Native language",
+        "certification": "",
+        "date": "Since about '97 :)"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
