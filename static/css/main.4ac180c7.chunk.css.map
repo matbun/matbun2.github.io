@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAEA,EACI,oBACJ","file":"main.4ac180c7.chunk.css","sourcesContent":["\n/*In order to have multiline in text specified in JSON*/\np{\n    white-space: pre-line;\n}"]}
