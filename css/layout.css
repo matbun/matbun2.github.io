@@ -64,10 +64,10 @@ header .banner {
 .subtitle-h3{
    display: inline;
    background-color: #33333391;
-   border-radius: 2px;
+   border-radius: 10px;
    box-decoration-break: clone;
    -webkit-box-decoration-break: clone;
-   padding: 1px 5px 1px 5px;
+   padding: 1px 7px 1px 7px;
    /*color: #e6e6e6;*/
 }
 
@@ -660,6 +660,20 @@ call-to-action .button {
 /* g. Testimonials
 /* ------------------------------------------------------------------ */
 
+.quote-background{
+   display: inline;
+   background-color: #33333391;
+   border-radius: 13px;
+   box-decoration-break: clone;
+   -webkit-box-decoration-break: clone;
+   padding: 1px 7px 1px 7px !important;
+   /*color: #e6e6e6;*/
+}
+
+.quote-corpus-container{
+   margin-bottom: 8px;
+}
+
 #testimonials {
    background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
    background-size: cover !important;
@@ -710,7 +724,7 @@ call-to-action .button {
    color: #fff
 }
 #testimonials blockquote cite {
-   display: block;
+   display: inline-flex;
    font-size: 12px;
    font-style: normal;
    line-height: 18px;
