@@ -2,7 +2,7 @@
   "main": {
     "name":"Matteo Bunino",
     "occupation":"Data Science Student",
-    "description":"I am currently attending a double degree Master of Science at both Polytechnic University of Turin and EURECOM in Sophia-Antipolis. I am specializing in the major of Data Science and Engineering, which addresses both  theoretical and pratical aspects of machine learning and Big Data analysis. My dream is to actively contribute to the development of democratic and benign AI, in order for it to be beneficial for people.",
+    "description":"I am currently attending a double degree Master of Science at both Polytechnic University of Turin and EURECOM in Sophia-Antipolis. I am specializing in the major of Data Science and Engineering, which addresses both  theoretical and pratical aspects of machine learning and Big Data analysis. My dream is to actively contribute to the development of democratic and benign AI, in order for it to be beneficial for people",
     "image":"profilepic.jpg",
     "bio":"I started my journey into computer science since the high school when I used to play with Aurduino Uno microcontroller and learn the basis of web development, which resulted in the project of a website for booking school labs. Since my childhood I have been deeply curious about natural sciences and the way technology could impact on our lives always amazed me. \nHowever technology is neither good nor evil and it's important to understand its implications in order to shape the future of our specie, by improving our living conditions and preserving fundamental rights. And what better way to understand the future than undertaking an engineering track? \n\n I am interested in Deep Leaning research and implementations which, at the moment, represent one of the most promising machine learning techniques. I have already worked with deep models such as: \n • Convolutional Neural Networks (CNNs) for image recognition and domain adaptation. \n  • Graph Convolutional Neural Networks (GCNs) for anomaly detection on financial graphs. \nHowever I'm still a rookie compared to many researchers and I am eager to learn more by participating to other research projects. In my next semester I am going to work on Energy Based Model for statistical Learning. You can find my projects below. \n\nMy dream is to actively contribute to the development of democratic and benign AI, in order for it to be beneficial for people.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -49,7 +49,7 @@
         "description":"Here, in France, I came in contact with a completely new learning environment, mostly project- and team-based, where I got to improve my teamwork and leadership skills. \nI also had the opportunity to expand my technical knowledge to the fields of cybersecurity and Cloud Computing security/privacy. \nI participated to two research semester projects related to Deep Learning."
       },
       {
-        "school":"Polytechnic University of Turin",
+        "school":"Polytechnic University of Turin ",
         "degree":"Master of Science in Data Science and Engineering",
         "graduated":"2019 - Present",
         "description":"I attended my first year of Master in Italy where I learned the basis of Data Science and Data Analysis including NoSQL DBs, statistics and statistical learning, Big Data processing architectures (map reduce), Deep Learning, GDPR law and Data Ethics, Optimization theory...  "
@@ -117,6 +117,20 @@
       {
         "name": "Leadership",
         "level": "70%"
+      }
+    ],
+    "otherexperiences":[
+      {
+        "activity":"Synthetic biology summer course",
+        "where":"Uppsala University (Sweden)",
+        "years":"Summer 2019",
+        "description":"Synthetic biology is a branch of biotechnology that aims at understanding how a set of DNA genes works, for instance by synthesizing a protein, with the ultimate goal of exploiting them is many applications. Someone may call this \"Playing the LEGO game with DNA\" or \"DNA Object Oriented Programming\". For instance, we may try to optimize the effectiveness of some proteins (e.g. for the photosynthesis enzyme called Rubisco), produce cutting edge personalized drugs (the monoclonal antibodies) or just creating a glowing goldfish :) \nIn this experience I got to learn a lot from a filed of my expertise, which included mainly team based activities carried out both in class and in lab."
+      },
+      {
+        "activity":"Student's representative",
+        "where":"High School",
+        "years":"2016 - 2017",
+        "description":"When I was elected as student's representative together with other two students I had to collaborate with them and make many decisions as a team:\n • Organize students activities, which meant also dealing with private stakeholders, external from the school.\n • Participate to the School Council where we discussed future decisions concerning the whole school (counting about 1000 students) and we brought the students problems. \n • Promoting our independent initiative of having a school hoodie. Eventually we sold more than 400 hoodies to the students, which meant making deals of thousands of euros with external suppliers. This has been an incredible (naive) business experience. \n • Holding a monthly students meeting where to discuss the current problems and facilitate the flow of information in the school hierarchy."
       }
     ],
     "languages": [

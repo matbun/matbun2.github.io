@@ -187,6 +187,9 @@
 
    /* Header Styles
    -------------------------------------------------------------------- */
+   .subtitle-container{
+      width: 100%;
+   }
    header .banner {
       padding-bottom: 12px;
       padding-top: 6px;
@@ -228,7 +231,7 @@
    --------------------------------------------------------------------- */
    #resume .header-col {
       padding-top: 0;
-      margin-bottom: 48px;
+      margin-bottom: 90px;
       text-align: center;
    }
    #resume h1 { letter-spacing: 3px; }
@@ -236,6 +239,9 @@
    #resume h3, #resume .info { text-align: center; }
       
    .bars { width: 100%; }
+   .description{
+      text-align: center;
+   }
 
 
    /* Call To Action Section
@@ -349,6 +355,9 @@
 
    /* header styles
    -------------------------------------------------------------------- */
+   .subtitle-container{
+      width: 100%;
+   }
    header .banner { padding-top: 24px; }
    header .banner-text h1 {
       font: 40px/1.1em 'opensans-bold', sans-serif;      
