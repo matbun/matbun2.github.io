@@ -4,9 +4,11 @@
     "occupation":"Data Science Student",
     "description":"I am currently attending a double degree Master of Science at both Polytechnic University of Turin and EURECOM in Sophia-Antipolis. I am specializing in the major of Data Science and Engineering, which addresses both  theoretical and pratical aspects of machine learning and Big Data analysis. My dream is to actively contribute to the development of democratic and benign AI, in order for it to be beneficial for people",
     "image":"profilepic.jpg",
-    "bio":"I started my journey into computer science since the high school when I used to play with Aurduino Uno microcontroller and learn the basis of web development, which resulted in the project of a website for booking school labs. Since my childhood I have been deeply curious about natural sciences and the way technology could impact on our lives always amazed me. \nHowever technology is neither good nor evil and it's important to understand its implications in order to shape the future of our specie, by improving our living conditions and preserving fundamental rights. And what better way to understand the future than undertaking an engineering track? \n\n I am interested in Deep Leaning research and implementations which, at the moment, represent one of the most promising machine learning techniques. I have already worked with deep models such as: \n • Convolutional Neural Networks (CNNs) for image recognition and domain adaptation. \n  • Graph Convolutional Neural Networks (GCNs) for anomaly detection on financial graphs. \nHowever I'm still a rookie compared to many researchers and I am eager to learn more by participating to other research projects. In my next semester I am going to work on Energy Based Model for statistical Learning. You can find my projects below. \n\nMy dream is to actively contribute to the development of democratic and benign AI, in order for it to be beneficial for people.",
+    "bio":"I started my journey into computer science since the high school when I used to play with Aurduino Uno microcontroller and learn the basis of web development, which resulted in the project of a website for booking school labs. Since my childhood I have been deeply curious about natural sciences and the way technology could impact on our lives always amazed me. \nHowever technology is neither good nor evil and it's important to understand its implications in order to shape the future of our specie, by improving our living conditions and preserving fundamental rights. And what better way to understand the future than undertaking an engineering track? \n\n I am interested in Deep Leaning research and implementations which, at the moment, represent one of the most promising machine learning techniques. I have already worked with deep models such as: \n • Convolutional Neural Networks (CNNs) for image recognition and domain adaptation. \n  • Graph Convolutional Neural Networks (GCNs) for anomaly detection on financial graphs. \nHowever I'm still a rookie compared to many researchers and I am eager to learn more by participating to other research projects. In my next semester I am going to work on Energy Based Model for statistical Learning. You can find my projects below. \n\nMy dream is to actively contribute to the development of democratic and benign AI, in order for it to be beneficial for people. This is an uncanny challenge we never faced before as a species and indeed will revolution our lives. As a result, potential problems may arise, like: high unemployment rates, shift of the power from governments (i.e. people) to private companies that develop AI and privacy issues. \nThe future has never been so challenging and we need to get ready in order to develop an AI that empowers people, rather than subdue them.  ",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "Matteo.Bunino@eurecom.fr",
+    "twitter": "matbun",
+    "skype": "matteo.bunino",
     "phone": "555-555-5555",
     "address":{
       "street":"---",
@@ -191,12 +193,16 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"What we want to do is work towards things like cures for human diseases, immortality, the end of war. These problems are too huge for us to tackle today. The only way is to get smarter as a species - through evolution or genetic engineering, or through AI.",
+        "user":"Doug Lenat, Cyc founder"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"And mark my words, AI is far more dangerous than nukes. Far. So why do we have no regulatory oversight? This is insane.\n[...] So it is really all about laying the groundwork to make sure that if humanity collectively decides that creating digital superintelligence is the right move, then we should do so very very carefully — very very carefully. This is the most important thing that we could possibly do.",
+        "user":"Elon Musk"
+      },
+      {
+        "text": "Machine intelligence is the last invention that humanity will ever need to make.",
+        "user": "Nick Bostrom, author of Superintelligence"
       }
     ]
   }

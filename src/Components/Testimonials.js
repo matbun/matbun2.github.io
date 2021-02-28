@@ -5,12 +5,16 @@ class Testimonials extends Component {
 
     if(this.props.data){
       var testimonials = this.props.data.testimonials.map(function(testimonials){
-        return  <li key={testimonials.user}>
+        return ( 
+        <li key={testimonials.user}>
             <blockquote>
-               <p>{testimonials.text}</p>
-               <cite>{testimonials.user}</cite>
+               <div className="quote-corpus-container">
+                  <p className="quote-background" >{testimonials.text}</p>
+               </div>
+               <cite className="quote-background" >{testimonials.user}</cite>
             </blockquote>
          </li>
+      )
       })
     }
 
