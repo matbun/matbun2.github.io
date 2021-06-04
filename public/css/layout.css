@@ -447,7 +447,22 @@ ul#nav li.current a { color: #F06000; }
 }
 
 /* Portfolio Content */
+.projects-title{
+   font-size: 175% !important;
+}
+
 #portfolio-wrapper .columns { margin-bottom: 36px; }
+#portfolio-wrapper{
+   column-count: 2;
+   column-rule-style: solid;
+}
+
+.github-repo-wrapper{
+   width: 400px;
+   display: table;
+   padding-bottom: 20px;
+   margin: 0 auto;
+}
 .portfolio-item .item-wrap {
    background: #fff;
    overflow: hidden;
