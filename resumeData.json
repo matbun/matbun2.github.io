@@ -4,7 +4,7 @@
     "occupation":"Data Science Student",
     "description":"I am currently attending a double degree Master of Science at both Polytechnic University of Turin and EURECOM in Sophia-Antipolis. I am specializing in the major of Data Science and Engineering, which addresses both  theoretical and pratical aspects of machine learning and Big Data analysis. My dream is to actively contribute to the development of democratic and benign AI, in order for it to be beneficial for people",
     "image":"profilepic.jpg",
-    "bio":"I started my journey into computer science since the high school when I used to play with Aurduino Uno microcontroller and learn the basis of web development, which resulted in the project of a website for booking school labs. Since my childhood I have been deeply curious about natural sciences and the way technology could impact on our lives always amazed me. \nHowever technology is neither good nor evil and it's important to understand its implications in order to shape the future of our specie, by improving our living conditions and preserving fundamental rights. And what better way to understand the future than undertaking an engineering track? \n\n I am interested in Deep Leaning research and implementations which, at the moment, represent one of the most promising machine learning techniques. I have already worked with deep models such as: \n • Convolutional Neural Networks (CNNs) for image recognition and domain adaptation. \n  • Graph Convolutional Neural Networks (GCNs) for anomaly detection on financial graphs. \nHowever I'm still a rookie compared to many researchers and I am eager to learn more by participating to other research projects. In my next semester I am going to work on Energy Based Model for statistical Learning. You can find my projects below. \n\nMy dream is to actively contribute to the development of democratic and benign AI, in order for it to be beneficial for people. This is an uncanny challenge we never faced before as a species and indeed will revolution our lives. As a result, potential problems may arise, like: high unemployment rates, shift of the power from governments (i.e. people) to private companies that develop AI and privacy issues. \nThe future has never been so challenging and we need to get ready in order to develop an AI that empowers people, rather than subdue them.  ",
+    "bio":"I started my journey into computer science since the high school when I used to play with Aurduino Uno microcontroller and learn the basis of web development, which resulted in the project of a website for booking school labs. Since my childhood I have been deeply curious about natural sciences and the way technology could impact on our lives always amazed me. \nHowever technology is neither good nor evil and it's important to understand its implications in order to shape the future of our specie, by improving our living conditions and preserving fundamental rights. And what better way to understand the future than undertaking an engineering track? \n\n I am interested in Deep Leaning research and implementations which, at the moment, represent one of the most promising machine learning techniques. I have already worked with deep models such as: \n • Convolutional Neural Networks (CNNs) for image recognition and domain adaptation. \n  • Graph Convolutional Neural Networks (GCNs) for anomaly detection on financial graphs. \nHowever I'm still a rookie compared to many researchers and I am eager to learn more by participating to other research projects. During my last semester I have worked on Energy Based Model for statistical Learning. You can find some of my projects below. \n\nMy dream is to actively contribute to the development of democratic and benign AI, in order for it to be beneficial for people. This is an uncanny challenge we never faced before as a species and indeed will revolution our lives. As a result, potential problems may arise, like: high unemployment rates, shift of the power from governments (i.e. people) to private companies that develop AI and privacy issues. \nThe future has never been so challenging and we need to get ready in order to develop an AI that empowers people, rather than subdue them.  ",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "Matteo.Bunino@eurecom.fr",
     "twitter": "matbun",
@@ -150,43 +150,26 @@
       },
       {
         "name": "Italian",
-        "grade": "Native language",
+        "grade": "Native speaker",
         "certification": "",
-        "date": "Since about '97 :)"
+        "date": "Since '97"
       }
     ]
   },
   "portfolio":{
+    "ghrepos":[
+      "EBM--Generative-Energy-Based-Modeling",
+      "Graph-Convolutional-Networks-for-Anomaly-Detection-in-Financial-Graphs",
+      "RGB-D-Domain-Adaptation-for-Object-Recognition",
+      "CovidApplication",
+      "matbun.github.io"
+    ],
     "projects": [
       {
         "title":"Canadian Wanderlust",
         "category":"My Travel Blog for my post-university travels",
         "image":"canadian-wanderlust.jpg",
         "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
       }
     ]
   },

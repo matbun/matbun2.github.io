@@ -62,6 +62,15 @@
    #resume h1 { font: 16px/24px 'opensans-bold', sans-serif; }
    #resume .main-col { padding-right: 5%; }   
 
+   /* Projects section
+   ------------------------------------------------------------------- */
+    /*Github portfolio section*/
+   
+   .github-repo-wrapper{
+      width: 300px;
+   }
+
+
    /* Testimonials Section
    ------------------------------------------------------------------- */
    #testimonials .header-col h1:before {
@@ -263,6 +272,18 @@
    #portfolio-wrapper .columns { margin-bottom: 40px; }
    .popup-modal {	max-width: 85%; }
 
+    /*Github portfolio section*/
+    #portfolio-wrapper{
+      column-count: 1;
+      column-rule-style: none;
+   }
+   
+   .github-repo-wrapper{
+      width: 400px;
+   }
+
+  
+
 
    /* Testimonials Section
    ----------------------------------------------------------------------- */
@@ -372,6 +393,11 @@
    header .social { font-size: 20px;}
    header .social li { margin: 0 6px; }
 
+   /**/
+   .projects-title{
+      font-size: 150% !important;
+   }
+
    /* footer
    ------------------------------------------------------------------------ */
 
@@ -379,6 +405,12 @@
    footer .social-links { font-size: 20px; }
    footer .social-links li { margin-left: 14px; }   
 
+}
+
+@media only screen and (max-width: 400px) {
+   .github-repo-wrapper{
+      width: 300px;
+   }
 }
 
 
