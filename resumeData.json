@@ -12,9 +12,9 @@
     "phone": "555-555-5555",
     "address":{
       "street":"---",
-      "city":"Biot (Cannes)",
-      "state":"France",
-      "zip": "06410"
+      "city":"München",
+      "state":"Germany",
+      "zip": "80335"
     },
     "website": "https://matbun.github.io/",
     "resumedownload":"CV_Matteo_Bunino.pdf",
@@ -64,6 +64,12 @@
       }
     ],
     "work":[
+      {
+        "company":"Huawei",
+        "title":"Research Intern",
+        "years":"September 2021 - present",
+        "description":"Reinforcement Learning for Malware Analysis. Reinforcement Learning became popular in last years for its unbelievable ability of reaching human-like performances in some well-known games, such as chess and Go. More recently, DeepMind's Agent57 was able to outperform the human records on 57 different Atari games. \nThe goal of this internship is to apply this promising class of machine learning algorithms to the complex task of malware analysis. \nI took part of a research team that develops machine learning tools able to cope with cyber attacks. Ultimately, this is a never ending chess game where intelligence is the key strength. "
+      },
       {
         "company":"Technology Reply",
         "title":"Big Data Analyst",
