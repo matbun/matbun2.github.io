@@ -16,7 +16,7 @@ $ git remote -v
 ```
 $ git add .
 $ git commit -m "new_commit"
-$ git pull origin master
+$ git push origin master
 ```
 
 ### Pull
