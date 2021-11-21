@@ -43,11 +43,11 @@ In `package.json`:
 
 ```json
 "homepage": "https://USERNAME.github.io/REPO_NAME",
-...
+"..."
 "scripts": {
         "predeploy": "npm run build",
         "deploy": "gh-pages -d build",
-        ...
+        "..."
       },
 ```
 
